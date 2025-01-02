@@ -1,3 +1,4 @@
+
 const { number } = require("zod");
 
 let arr1 = [10,20,30,40,50]

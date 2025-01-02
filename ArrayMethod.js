@@ -55,4 +55,5 @@ console.log(fruit_name); //a-p-p-l-e
 let users = ['akash','ankit','punith','ayush']
 let [user1, user2] = users;
 console.log(user1)//akash
+
 console.log(user2)//ankit
