@@ -33,4 +33,8 @@ This section includes code snippets, examples, and practice problems that demons
 
 ---
 
+<<<<<<< HEAD
 Happy Coding! 🚀
+=======
+Happy Coding! 🚀
+>>>>>>> 2049429e5801fa528e9dff3132042f15df981fad
